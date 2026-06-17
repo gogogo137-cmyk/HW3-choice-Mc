@@ -1,6 +1,6 @@
 # 🍔 金黃選餐隨機機 (麥當勞版)
 
-**麥當勞自己選擇困難的時候可以用：** [👉 點此進入 Streamlit 線上選餐隨機機](https://hw3-chioce-mc-7vb9yezdvsjh5jkq4eubnr.streamlit.app/)
+**麥當勞自己選擇困難的時候可以用：** [👉 點此進入 Streamlit 線上選餐隨機機](https://hw3-choice-mc-7vb9yezdvsjh5jkq4eubnr.streamlit.app/)
 
 ---
 

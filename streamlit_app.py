@@ -44,8 +44,8 @@ if os.path.exists(html_path) and os.path.exists(css_path) and os.path.exists(js_
     except Exception as e:
         st.error(f"載入本機檔案時發生錯誤：{e}")
         st.info("改為載入 GitHub Pages 線上版本...")
-        components.iframe("https://gogogo137-cmyk.github.io/HW3-chioce-Mc/", height=880, scrolling=True)
+        components.iframe("https://gogogo137-cmyk.github.io/HW3-choice-Mc/", height=880, scrolling=True)
 else:
     # 如果找不到本機檔案，則直接嵌入已部署的 GitHub Pages
     st.info("未偵測到本機檔案，正在嵌入 GitHub Pages 線上版本...")
-    components.iframe("https://gogogo137-cmyk.github.io/HW3-chioce-Mc/", height=880, scrolling=True)
+    components.iframe("https://gogogo137-cmyk.github.io/HW3-choice-Mc/", height=880, scrolling=True)
